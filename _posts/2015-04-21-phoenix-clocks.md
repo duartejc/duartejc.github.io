@@ -1,9 +1,7 @@
 ---
 layout: post_page
-title: Lorem
+title: Hey Phoenix, What Time Is It?
 ---
-
-# Hey Phoenix, What Time Is It?
 
 Just as good programmers are expected to be, I am open-minded about technologies. Recently I gave Elixir a try and it just blew me away. Its simplicity along with the power of Erlang made me feel like a novice developer with a lot of possibilities to explore, even though I have been a programmer for more than a decade now.  
 
