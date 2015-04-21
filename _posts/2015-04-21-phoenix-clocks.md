@@ -7,7 +7,7 @@ Just as good programmers are expected to be, I am open-minded about technologies
 
 Elixir and Erlang alone are great platforms, but in order to comply to such full-stack hype we need some web framework.
 
-## Enter The Phoenix Framework
+### Enter The Phoenix Framework
 
 By its own definition:
 
@@ -20,7 +20,7 @@ As a proof of concept, we are going to build a simple application which displays
 
 For the sake of simplicity, I am assuming you have already some experience with Elixir/Phoenix. Otherwise, I suggest you to take a look at the Firehose Project's [tutorial](http://phoenix.thefirehoseproject.com/).  
 
-## Getting Started
+### Getting Started
 
 First, we need to install the Timex dependency in our fresh Phoenix application. To do so, just add a new element to *deps* in *mix.exs* file:
 
@@ -302,6 +302,7 @@ If everything is correct, you will get something like this:
 ![Imgur](http://i.imgur.com/zE7asYa.png)
 
 ![Imgur](http://i.imgur.com/QnpfcPw.png)
+
 
 The complete application could be found at [github](https://github.com/duartejc/phoenix-clocks).
 
