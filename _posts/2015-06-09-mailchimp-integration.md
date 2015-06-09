@@ -86,6 +86,7 @@ def authenticate(%{"username" => user, "password" => pass, "client_id" => client
   end
 end
 ```
+
 Retrieve a member of a MailChimp list is as easy as a pie using the API:
 
 ```elixir
