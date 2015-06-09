@@ -52,7 +52,7 @@ def insert(user) do
 end
 ```
 
-Note at line 3 where I use *MailChimp wrapper* to subscribe a new user, passing the [MailChimp List ID]() and a valid e-mail address.
+Note at line 3 where I use *MailChimp wrapper* to subscribe a new user, passing the [MailChimp List ID](http://kb.mailchimp.com/lists/managing-subscribers/find-your-list-id) and a valid e-mail address.
 That function will return a representation of the subscribed member in MailChimp.
 
 Then I have another use case:
