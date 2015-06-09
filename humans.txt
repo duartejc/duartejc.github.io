@@ -1,9 +1,9 @@
 /* TEAM */
-                            
-Your title: Your name.                        
-Site: email, link to a contact form, etc.                         
-Twitter: your Twitter username.                        
-Location: City, Country.
+
+Your title: Jean Duarte.
+Site: email, link to a contact form, etc.
+Twitter: duartejc_.
+Location: Curitiba, Brazil.
 
 
 /* THANKS */
@@ -12,10 +12,10 @@ HTML5 Muffin
 This is a Frappuccino Blog
 Name: name or url
 
-                            
+
 /* SITE */
-                          
-Last update: YYYY/MM/DD                    
-Standards: HTML5, CSS3,..                   
-Components: Modernizr, jQuery, etc.                            
+
+Last update: YYYY/MM/DD
+Standards: HTML5, CSS3,..
+Components: Modernizr, jQuery, etc.
 Software: Software used for the development
