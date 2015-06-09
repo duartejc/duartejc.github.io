@@ -4,4 +4,7 @@ auto: true # automatically update your jekyll
 server: true # runs a local server
 paginate: 10 # pagination basted on number of posts
 exclude: ["Gemfile", "Gemfile.lock", "README.md", 'sass', 'watch.sh', 'style.scss'] # files to exclude
-
+analytics :
+  provider : google
+  google :
+      tracking_id : 'UA-63937528-1'
