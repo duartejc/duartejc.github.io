@@ -81,3 +81,5 @@ Along with the user authentication, I had to retrieve the user status from MailC
 Retrieve a member of a MailChimp list is as easy as a pie using the API:
 
     member = Mailchimp.get_member("23321a5522", user.member_id)
+
+In this post I presented a basic integration using a wrapper that I have created to meet some requirements of a project I am working on. There is a lot of room for improvement, so I pretend to evolve such implementation as needed or requested by the community.
